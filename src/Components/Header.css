@@ -1,0 +1,88 @@
+header {
+    background-color: #86295f;
+    padding: 50px;
+    height: 30px;
+  }
+  .logo{
+   height:30px;
+   width: 50px;
+   float: left;
+    } 
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding:0; 
+    display: flex;
+    float: right; 
+    justify-content: space-between; 
+    /* text-align: center; */
+  }
+  
+   ul li {
+    
+    text-align: center;
+  
+  } 
+  
+  ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin: 20px; 
+    text-align: center;
+   font-size: 16px;
+  }
+  a:hover {
+    /* background-color:lightpink; */
+    color:rgb(96, 134, 188);
+  }
+
+.Lbut{
+  background-color: #c2fbd7;
+  border-radius: 100px;
+  box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+  color: green;
+  cursor: pointer;
+  padding: 7px 20px;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  
+}
+
+.Lbut:hover {
+  box-shadow: rgba(44,187,99,.35) 0 -25px 18px -14px inset,rgba(44,187,99,.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+  background-color: green;
+  color:white;
+}
+  
+.Rbut{
+  background-color: #ed6969;
+  border-radius: 100px;
+  box-shadow: rgba(206, 108, 111, 0.2) 0 -25px 18px -14px inset,rgba(209, 121, 121, 0.15) 0 1px 2px,rgba(214, 122, 122, 0.15) 0 2px 4px,rgba(198, 110, 111, 0.15) 0 4px 8px,rgba(201, 97, 97, 0.15) 0 8px 16px,rgba(192, 97, 97, 0.15) 0 16px 32px;
+  color: rgb(65, 10, 10);
+  cursor: pointer;
+  padding: 7px 20px;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  margin-left: 5px;
+}
+
+.Rbut:hover {
+  box-shadow: rgba(233, 133, 133, 0.35) 0 -25px 18px -14px inset,rgba(223, 130, 130, 0.25) 0 1px 2px,rgba(231, 147, 147, 0.25) 0 2px 4px,rgba(240, 150, 150, 0.25) 0 4px 8px,rgba(214, 112, 115, 0.25) 0 8px 16px,rgba(216, 125, 132, 0.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+  background-color: rgb(163, 16, 16);
+  color:white;
+}
+  
+  
+  
+  
+  
+    
+  
+  
+  
+  

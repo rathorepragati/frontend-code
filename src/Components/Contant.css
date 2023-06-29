@@ -1,0 +1,12 @@
+
+     .contant{
+        margin: 10%;
+        padding: 20px;
+     }
+    .pic{
+        margin: 10px;
+        height: 60%;
+        width: 30%;
+        border-radius: 50%;
+        float: left;
+     }
